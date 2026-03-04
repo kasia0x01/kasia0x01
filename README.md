@@ -1,4 +1,4 @@
-## 👋 Hello, I'm @kasia0x01
+## 👋 Hello, I'm Kate!
 
 ![View counter](https://komarev.com/ghpvc/?username=embeddedk8)
 
